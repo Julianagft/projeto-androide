@@ -5,6 +5,5 @@
 Você pode acessar o site com o projeto pronto aqui: https://julianagft.github.io/projeto-androide/
 
 ![Tabuada JS](https://github.com/Julianagft/mini-projeto-tabuada-js/blob/main/tabuada-js.png)
-![Tabuada JS](https://github.com/Julianagft/mini-projeto-tabuada-js/blob/main/tabuada-js.png)
-![Tabuada JS](https://github.com/Julianagft/mini-projeto-tabuada-js/blob/main/tabuada-js.png)
+
 
