@@ -4,6 +4,8 @@
 
 Você pode acessar o site com o projeto pronto aqui: https://julianagft.github.io/projeto-androide/
 
-![Tabuada JS](https://github.com/Julianagft/mini-projeto-tabuada-js/blob/main/tabuada-js.png)
+![visão geral](https://github.com/Julianagft/projeto-androide/blob/main/vis%C3%A3o%20geral.png)
+![visão geral](https://github.com/Julianagft/projeto-androide/blob/main/androids%20responsivos.png)
+![visão geral](https://github.com/Julianagft/projeto-androide/blob/main/iframe.png)
 
 
